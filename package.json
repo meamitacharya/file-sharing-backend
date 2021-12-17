@@ -1,5 +1,5 @@
 {
-  "name": "@meamitacharya/backend",
+  "name": "backend",
   "version": "1.0.0",
   "description": "Backend Application for File Sharing using Express and MongoDB",
   "main": "app.js",
@@ -9,20 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meamitacharya/backend-boilerplate.git"
+    "url": "git+https://github.com/meamitacharya/file-sharing-backend.git"
   },
   "keywords": [
-    "boilerplate",
+    "file sharing",
     "nodejs",
-    "expressjs",
+    "share file",
+    "share image",
     "mongodb"
   ],
   "author": "Amit Acharya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/meamitacharya/backend-boilerplate/issues"
+    "url": "https://github.com/meamitacharya/file-sharing-backend/issues"
   },
-  "homepage": "https://github.com/meamitacharya/backend-boilerplate#readme",
+  "homepage": "https://github.com/meamitacharya/file-sharing-backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
